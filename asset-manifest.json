@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/paulsite/static/css/main.1071bc13.chunk.css",
+    "main.js": "/paulsite/static/js/main.71ba5182.chunk.js",
+    "main.js.map": "/paulsite/static/js/main.71ba5182.chunk.js.map",
+    "runtime-main.js": "/paulsite/static/js/runtime-main.b6dcd9ed.js",
+    "runtime-main.js.map": "/paulsite/static/js/runtime-main.b6dcd9ed.js.map",
+    "static/js/2.5e8ae6de.chunk.js": "/paulsite/static/js/2.5e8ae6de.chunk.js",
+    "static/js/2.5e8ae6de.chunk.js.map": "/paulsite/static/js/2.5e8ae6de.chunk.js.map",
+    "index.html": "/paulsite/index.html",
+    "static/css/main.1071bc13.chunk.css.map": "/paulsite/static/css/main.1071bc13.chunk.css.map",
+    "static/js/2.5e8ae6de.chunk.js.LICENSE.txt": "/paulsite/static/js/2.5e8ae6de.chunk.js.LICENSE.txt",
+    "static/media/Poly.96d18d06.jpg": "/paulsite/static/media/Poly.96d18d06.jpg",
+    "static/media/hku.ba46ba76.jpg": "/paulsite/static/media/hku.ba46ba76.jpg",
+    "static/media/icon.28e01247.png": "/paulsite/static/media/icon.28e01247.png",
+    "static/media/pku.46f7232e.png": "/paulsite/static/media/pku.46f7232e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6dcd9ed.js",
+    "static/js/2.5e8ae6de.chunk.js",
+    "static/css/main.1071bc13.chunk.css",
+    "static/js/main.71ba5182.chunk.js"
+  ]
+}
